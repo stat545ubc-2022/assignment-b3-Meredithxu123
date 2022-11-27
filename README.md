@@ -14,9 +14,9 @@ The modified BC Liquor Shiny App can be accessed through the following [Link](ht
 2️⃣ **Feature #2:** Added a feature that allows the user to decide on the colours of the bars in the plot.
 
 
-3️⃣: **Feature #3:** Added a feature that shows the number of results found whenever the filters are changed.
+3️⃣ **Feature #3:** Added a feature that shows the number of results found whenever the filters are changed.
 
-4️⃣: **Feature #4:** Used the DT package to turn a static table into an interactive table
+4️⃣ **Feature #4:** Used the DT package to turn a static table into an interactive table
 
 ## Acknowledgement 👏
 This app was originally developed by Dean Attali, and the public data used for this app can be found [here](https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv).
