@@ -18,7 +18,7 @@ The modified BC Liquor Shiny App can be accessed through the following [Link](ht
 
 4️⃣: **Feature #4:** Used the DT package to turn a static table into an interactive table
 
-## Acknowledgement
+## Acknowledgement 👏
 This app was originally developed by Dean Attali, and the public data used for this app can be found [here](https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv).
 
 
