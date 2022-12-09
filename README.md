@@ -21,7 +21,7 @@ This app was originally developed by Dean Attali, and the public data used for t
 
 
 # Assignment B4
-I selected **Option C**: to design a new McDonald's Menu Shiny App from scratch
+I selected **Option C**: to design the McDonald's Menu Shiny App from scratch
 
 The McDonald's Menu Shiny App can be accessed through the following [Link](https://meredithxu123.shinyapps.io/McDonald_Meals/).
 
@@ -32,7 +32,7 @@ This McDonald's Menu Shiny App is mainly designed for the McDonald's lover but w
 
 2️⃣ **Feature #2:** Added an McDonald image in the sidebarPanel to make the app itself more visualized
 
-3️⃣ **Feature #3:** Allowed the user to search for multiple McDonald's menu categories at once instead of only a one at a time by using the `selectInput()` function with an addition parameter `multiple = TRUE`.
+3️⃣ **Feature #3:** Allowed the user to search for multiple McDonald's menu categories at once instead of only a one at a time by using the `selectInput()` function with a parameter `multiple = TRUE`.
 
 4️⃣ **Feature #4:** Added a feature that allows the user to decide on the colours of the bars in the plot.
 
