@@ -3,6 +3,7 @@ library(tidyverse)
 library(DT)
 library(colourpicker)
 
+
 bcl <- read.csv("bcl-data.csv")
 
 ui <- fluidPage(
@@ -24,11 +25,9 @@ ui <- fluidPage(
     # Feature 3: Show the number of results found whenever the filters change.
     textOutput("sortedinfo"),
     # Feature 4: Use the DT package to turn a static table into an interactive table.
-    mainPanel(
     plotOutput("alcohol_plot"),
-    DT::dataTableOutput("alcohol_table")),
+    DT::dataTableOutput("alcohol_table"))
     
-)
   
 server <- function(input, output) {
   
